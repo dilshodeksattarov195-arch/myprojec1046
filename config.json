@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routereonnect",
+        "uuid": 9542658,
+        "checksum": "a4j8"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
